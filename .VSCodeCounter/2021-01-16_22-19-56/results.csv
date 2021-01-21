@@ -1,0 +1,23 @@
+"filename", "language", "TypeScript", "TypeScript React", "JSON", "comment", "blank", "total"
+"/home/tosin/Desktop/streams/client/src/actions/index.ts", "TypeScript", 47, 0, 0, 0, 19, 66
+"/home/tosin/Desktop/streams/client/src/actions/types.ts", "TypeScript", 7, 0, 0, 0, 1, 8
+"/home/tosin/Desktop/streams/client/src/apis/streams.ts", "TypeScript", 8, 0, 0, 0, 3, 11
+"/home/tosin/Desktop/streams/client/src/components/App.tsx", "TypeScript React", 0, 27, 0, 0, 7, 34
+"/home/tosin/Desktop/streams/client/src/components/GoogleAuth.tsx", "TypeScript React", 0, 86, 0, 0, 15, 101
+"/home/tosin/Desktop/streams/client/src/components/Header.tsx", "TypeScript React", 0, 20, 0, 0, 5, 25
+"/home/tosin/Desktop/streams/client/src/components/streams/StreamCreate.tsx", "TypeScript React", 0, 74, 0, 0, 17, 91
+"/home/tosin/Desktop/streams/client/src/components/streams/StreamDelete.tsx", "TypeScript React", 0, 7, 0, 0, 3, 10
+"/home/tosin/Desktop/streams/client/src/components/streams/StreamEdit.tsx", "TypeScript React", 0, 25, 0, 0, 9, 34
+"/home/tosin/Desktop/streams/client/src/components/streams/StreamList.tsx", "TypeScript React", 0, 68, 0, 0, 15, 83
+"/home/tosin/Desktop/streams/client/src/components/streams/StreamShow.tsx", "TypeScript React", 0, 7, 0, 0, 3, 10
+"/home/tosin/Desktop/streams/client/src/components/streams/api/db.json", "JSON", 0, 0, 22, 0, 0, 22
+"/home/tosin/Desktop/streams/client/src/components/streams/api/package-lock.json", "JSON", 0, 0, 1364, 0, 1, 1365
+"/home/tosin/Desktop/streams/client/src/components/streams/api/package.json", "JSON", 0, 0, 14, 0, 1, 15
+"/home/tosin/Desktop/streams/client/src/history.ts", "TypeScript", 2, 0, 0, 0, 1, 3
+"/home/tosin/Desktop/streams/client/src/index.tsx", "TypeScript React", 0, 27, 0, 3, 7, 37
+"/home/tosin/Desktop/streams/client/src/react-app-env.d.ts", "TypeScript", 0, 0, 0, 1, 1, 2
+"/home/tosin/Desktop/streams/client/src/reducers/authReducer.ts", "TypeScript", 25, 0, 0, 0, 4, 29
+"/home/tosin/Desktop/streams/client/src/reducers/index.ts", "TypeScript", 9, 0, 0, 0, 3, 12
+"/home/tosin/Desktop/streams/client/src/reducers/streamReducer.ts", "TypeScript", 25, 0, 0, 0, 2, 27
+"/home/tosin/Desktop/streams/client/src/reportWebVitals.ts", "TypeScript", 13, 0, 0, 0, 3, 16
+"Total", "-", 136, 341, 1400, 4, 120, 2001

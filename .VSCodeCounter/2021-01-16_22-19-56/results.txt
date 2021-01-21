@@ -1,0 +1,53 @@
+Date : 2021-01-16 22:19:56
+Directory : /home/tosin/Desktop/streams/client/src
+Total : 21 files,  1877 codes, 4 comments, 120 blanks, all 2001 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| JSON             |          3 |      1,400 |          0 |          2 |      1,402 |
+| TypeScript React |          9 |        341 |          3 |         81 |        425 |
+| TypeScript       |          9 |        136 |          1 |         37 |        174 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                               |         21 |      1,877 |          4 |        120 |      2,001 |
+| actions                                                                         |          2 |         54 |          0 |         20 |         74 |
+| apis                                                                            |          1 |          8 |          0 |          3 |         11 |
+| components                                                                      |         11 |      1,714 |          0 |         76 |      1,790 |
+| components/streams                                                              |          8 |      1,581 |          0 |         49 |      1,630 |
+| components/streams/api                                                          |          3 |      1,400 |          0 |          2 |      1,402 |
+| reducers                                                                        |          3 |         59 |          0 |          9 |         68 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                        | language         | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| /home/tosin/Desktop/streams/client/src/actions/index.ts                         | TypeScript       |         47 |          0 |         19 |         66 |
+| /home/tosin/Desktop/streams/client/src/actions/types.ts                         | TypeScript       |          7 |          0 |          1 |          8 |
+| /home/tosin/Desktop/streams/client/src/apis/streams.ts                          | TypeScript       |          8 |          0 |          3 |         11 |
+| /home/tosin/Desktop/streams/client/src/components/App.tsx                       | TypeScript React |         27 |          0 |          7 |         34 |
+| /home/tosin/Desktop/streams/client/src/components/GoogleAuth.tsx                | TypeScript React |         86 |          0 |         15 |        101 |
+| /home/tosin/Desktop/streams/client/src/components/Header.tsx                    | TypeScript React |         20 |          0 |          5 |         25 |
+| /home/tosin/Desktop/streams/client/src/components/streams/StreamCreate.tsx      | TypeScript React |         74 |          0 |         17 |         91 |
+| /home/tosin/Desktop/streams/client/src/components/streams/StreamDelete.tsx      | TypeScript React |          7 |          0 |          3 |         10 |
+| /home/tosin/Desktop/streams/client/src/components/streams/StreamEdit.tsx        | TypeScript React |         25 |          0 |          9 |         34 |
+| /home/tosin/Desktop/streams/client/src/components/streams/StreamList.tsx        | TypeScript React |         68 |          0 |         15 |         83 |
+| /home/tosin/Desktop/streams/client/src/components/streams/StreamShow.tsx        | TypeScript React |          7 |          0 |          3 |         10 |
+| /home/tosin/Desktop/streams/client/src/components/streams/api/db.json           | JSON             |         22 |          0 |          0 |         22 |
+| /home/tosin/Desktop/streams/client/src/components/streams/api/package-lock.json | JSON             |      1,364 |          0 |          1 |      1,365 |
+| /home/tosin/Desktop/streams/client/src/components/streams/api/package.json      | JSON             |         14 |          0 |          1 |         15 |
+| /home/tosin/Desktop/streams/client/src/history.ts                               | TypeScript       |          2 |          0 |          1 |          3 |
+| /home/tosin/Desktop/streams/client/src/index.tsx                                | TypeScript React |         27 |          3 |          7 |         37 |
+| /home/tosin/Desktop/streams/client/src/react-app-env.d.ts                       | TypeScript       |          0 |          1 |          1 |          2 |
+| /home/tosin/Desktop/streams/client/src/reducers/authReducer.ts                  | TypeScript       |         25 |          0 |          4 |         29 |
+| /home/tosin/Desktop/streams/client/src/reducers/index.ts                        | TypeScript       |          9 |          0 |          3 |         12 |
+| /home/tosin/Desktop/streams/client/src/reducers/streamReducer.ts                | TypeScript       |         25 |          0 |          2 |         27 |
+| /home/tosin/Desktop/streams/client/src/reportWebVitals.ts                       | TypeScript       |         13 |          0 |          3 |         16 |
+| Total                                                                           |                  |      1,877 |          4 |        120 |      2,001 |
++---------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
